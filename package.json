@@ -1,6 +1,6 @@
 {
   "name": "angular-async-series",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Apply an action to a set of data serially.",
   "main": "dist/angular-async-series.js",
   "directories": {
