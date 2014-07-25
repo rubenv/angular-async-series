@@ -1,0 +1,19 @@
+{
+  "name": "angular-async-series",
+  "version": "0.0.0",
+  "main": "dist/angular-async-series.js",
+  "ignore": [
+    "**/.*",
+    "src",
+    "node_modules",
+    "bower_components",
+    "test",
+    "Gruntfile.coffee"
+  ],
+  "dependencies": {
+    "angular": "*"
+  },
+  "devDependencies": {
+    "angular-mocks": "*"
+  }
+}
